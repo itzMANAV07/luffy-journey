@@ -35,7 +35,7 @@ East Blue · Arabasta · Sky Island · Water 7 · Summit War · Fish-Man Island 
 
 ## Live Demo
 
-[View on GitHub Pages](https://your-username.github.io/luffy-journey)
+[View on GitHub Pages]([https://itzmanav07.github.io/luffy-journey/])
 
 ---
 
