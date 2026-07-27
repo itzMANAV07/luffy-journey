@@ -1,0 +1,123 @@
+#pic{
+    width: 150px;
+    border-radius: 50%;
+    border: 5px lightcoral solid;
+}
+
+
+body {
+    color: azure;
+     background: linear-gradient(
+        180deg,
+        #2C3E50 0%,
+        #355C7D 15%,
+        #4CA1AF 40%,
+        #7ED6DF 65%,
+        #F8E8C8 85%,
+        #FFE8A3 100%
+    );
+    text-align: center;
+    font-family: "Happy Monkey", cursive;
+    display: flex;
+    flex-direction: column;
+}
+
+
+h1, h3 , p{
+    text-shadow: 0px 0px 2px black;
+}
+
+
+#Dream{
+    margin-top: 40px;
+}
+
+
+#Dream,#role {
+    margin-bottom: 15px;
+    padding: 4px 7px;
+    border-radius: 4px;
+    background: lightcoral;
+}
+
+
+.journey{
+    margin-top: 50px;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+
+.cover{
+    max-width: 400px ;
+    width: 90%;
+    height: 400px;
+    background-image: url(cover.jpg);
+    background-size: cover ;
+    border: white solid 3px;
+    border-radius: 4px;
+    background-position: center;
+    margin: 0 auto;
+    display: block;
+}
+
+
+#east-blue:hover{
+    background-image: url(start.gif);
+}
+
+
+.saga{
+    margin-top: 80px;
+}
+
+
+#arabasta:hover{
+    background-image: url(arabasta.gif);
+}
+
+#sky:hover{
+    background-image: url(sky.gif);
+}
+
+#water7:hover{
+    background-image: url(water7.gif);
+}
+
+
+#marine:hover{
+    background-image: url(marine.gif);
+}
+
+#fish:hover{
+    background-image: url(fish.gif);
+}
+
+#dress:hover{
+    background-image: url(dress.gif);
+}
+
+#cake:hover{
+    background-image: url(cake.gif);
+}
+
+#wano:hover{
+    background-image: url(waano.gif);
+}
+
+#final:hover{
+    background-image: url(final.gif);
+}
+
+#footer{
+    font-style: italic;
+    margin: 40px 0;
+}
+
+a{
+    color: azure;
+}
